@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dee-Tyan
-- 👀 I’m interested in creating simple solutions to everday problems
+- 👀 I’m interested in creating simple solutions to every day problems
 - 🌱 I’m currently learning Node Js
 - 💞️ I’m looking to collaborate on impactful projects
 - 📫 How to reach me: debbietiyan@gmail.com
