@@ -2,6 +2,7 @@
 
 - 👋 Hi, I’m @Dee-Tyan
 - 👀 I’m interested in creating simple solutions to every day problems
+- 🌱 I work with JavaScript, TypeScript, Node, Express, React, Tailwind CSS
 - 💞️ I’m looking to collaborate on impactful projects
 - 📫 How to reach me: debbietiyan@gmail.com
 
@@ -52,7 +53,8 @@
 ## Connect with me:
 
 <p align="center">
-  <a href = "https://www.linkedin.com/in/deborah-oyegue-137900145"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/deborah-oyegue-137900145" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://debbietiyan.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 <!---
