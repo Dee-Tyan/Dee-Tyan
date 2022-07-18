@@ -1,10 +1,9 @@
 # Debbie Here!
 
-- 👋 Hi, I’m @Dee-Tyan
+- 👋 Hi, I’m Deborah but you can call me Debbie
 - 👀 I’m interested in creating simple solutions to every day problems
 - 🌱 I work with JavaScript, TypeScript, Node, Express, React, Tailwind CSS
 - 💞️ I’m looking to collaborate on impactful projects
-- 📫 How to reach me: debbietiyan@gmail.com
 
 ## Website:
 
