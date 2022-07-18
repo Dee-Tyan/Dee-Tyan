@@ -11,7 +11,7 @@
 
 
 
-## Frameworks I use:
+## Technologies:
 
 <table>
     <tr>
