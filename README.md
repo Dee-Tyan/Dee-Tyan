@@ -1,6 +1,7 @@
 # Debbie Here!
 
 - 👋 Hi, I’m Deborah but you can call me Debbie
+- 😍 I am a Front-end developer and an all-round communicator
 - 👀 I’m interested in creating simple solutions to every day problems
 - 🌱 I work with JavaScript, TypeScript, Node, Express, React, Tailwind CSS
 - 💞️ I’m looking to collaborate on impactful projects
