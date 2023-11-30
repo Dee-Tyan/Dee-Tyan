@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Deborah but you can call me Debbie
 - 😍 I am a Front-end developer and an all-round communicator
 - 💕 I’m interested in creating simple solutions to everyday problems
-- 🌱 I work with JavaScript, TypeScript, Node, Express, AdonisJS, React, NextJS, Tailwind CSS
+- 🌱 I work with JavaScript, TypeScript, Node, Express, AdonisJS, React, NextJS, Tailwind CSS, etc.
 - 👀 You can also catch me over on Gitlab: https://gitlab.com/Dee-Tyan
 
 ## Website:
