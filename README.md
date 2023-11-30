@@ -2,13 +2,13 @@
 
 - 👋 Hi, I’m Deborah but you can call me Debbie
 - 😍 I am a Front-end developer and an all-round communicator
-- 👀 I’m interested in creating simple solutions to every day problems
-- 🌱 I work with JavaScript, TypeScript, Node, Express, React, Tailwind CSS
-- 💞️ I’m looking to collaborate on impactful projects
+- 👀 I’m interested in creating simple solutions to everyday problems
+- 🌱 I work with JavaScript, TypeScript, Node, Express, AdonisJS, React, NextJS, Tailwind CSS
+-  You can also catch me over on Gitlab: https://gitlab.com/Dee-Tyan
 
 ## Website:
 
-**[Show me!](https://deborah-oyegue.tech)**
+**[Show me!]([https://deborah-oyegue.tech](https://dee-tyan.github.io/deborahoyegue.github.io/))**
 
 
 
